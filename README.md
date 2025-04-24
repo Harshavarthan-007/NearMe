@@ -38,7 +38,7 @@ map1.html
     </h1>
 
     <h3 align="center">
-        <font color="blue"><b>SHREYESHKAR SEKAR (212224220099)</b></font>
+        <font color="blue"><b>HARSHAVARTHAN (212224220099)</b></font>
     </h3>
 
     <center>
