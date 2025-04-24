@@ -231,6 +231,7 @@ Trends.html
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/f7e043e3-5892-4cc5-af27-eca5fd0da6a5)
 ![alt text](<web exp4 2nd.png>)
 ![alt text](<web exp4 3rd.png>)
 ![alt text](<web exp4 4th.png>)
